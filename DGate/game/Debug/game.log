@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  test.cpp
+  System.cpp
+  RigidBody.cpp
+  Physics.cpp
+  MeshCollider.cpp
+  CharacterController.cpp
+  CapsuleCollider.cpp
+  Pad.cpp
+  SkinModelData.cpp
+c:\users\kbc16b08\desktop\ゲーム\☆製作\dgate\game\myengine\graphics\skinmodeldata.cpp(320): warning C4316: 'D3DXFRAME_DERIVED': ヒープで割り当てられたオブジェクトが 16 にアラインメントされていない可能性があります
+  SkinModel.cpp
+  EffectManager.cpp
+  Camera.cpp
+  Animation.cpp
+  main.cpp
+  game.cpp
+  コードを生成中...
+  game.vcxproj -> C:\Users\kbc16b08\Desktop\ゲーム\☆製作\DGate\Debug\game.exe
+  game.vcxproj -> C:\Users\kbc16b08\Desktop\ゲーム\☆製作\DGate\Debug\game.pdb (Full PDB)
